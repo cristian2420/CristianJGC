@@ -33,7 +33,7 @@ But:
  ## My Stats:
 
 <div class='container'>
-<img style="height: auto; width: 50%;" class="img" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cristian2420&exclude_days=Sun%2CSat" />
+<img style="height: auto; width: 50%;" class="img" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=cristian2420&exclude_days=Sun%2CSat](https://streak-stats.demolab.com/?user=cristian2420&theme=dark&exclude_days=Sun%2CSat" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 30%;" class="img" alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian2420&theme=gotham&show_icons=true" /></div>
